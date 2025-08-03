@@ -1,0 +1,102 @@
+[
+  {
+    "transaction_id": 1,
+    "date": 1750377600000,
+    "description": "Food @ Eataly",
+    "category": "Restaurant + Take Outs",
+    "account": "Checking-USBANK",
+    "amount": -90.56,
+    "type": "Expense"
+  },
+  {
+    "transaction_id": 2,
+    "date": 1750377600000,
+    "description": "Snacks",
+    "category": "Restaurant + Take Outs",
+    "account": "Checking-USBANK",
+    "amount": -4.36,
+    "type": "Expense"
+  },
+  {
+    "transaction_id": 3,
+    "date": 1750377600000,
+    "description": "AT&T",
+    "category": "Utilities",
+    "account": "Checking-USBANK",
+    "amount": -31.59,
+    "type": "Expense"
+  },
+  {
+    "transaction_id": 4,
+    "date": 1750636800000,
+    "description": "UPS",
+    "category": "Miscellaneous",
+    "account": "Checking-USBANK",
+    "amount": -15.0,
+    "type": "Expense"
+  },
+  {
+    "transaction_id": 5,
+    "date": 1750636800000,
+    "description": "Walmart Shopping",
+    "category": "Food",
+    "account": "Checking-USBANK",
+    "amount": -156.38,
+    "type": "Expense"
+  },
+  {
+    "transaction_id": 6,
+    "date": 1750636800000,
+    "description": "Uber",
+    "category": "Transportation",
+    "account": "Checking-USBANK",
+    "amount": -33.12,
+    "type": "Expense"
+  },
+  {
+    "transaction_id": 7,
+    "date": 1750636800000,
+    "description": "Outing @Tipsy Putt Rib",
+    "category": "Entertainment",
+    "account": "Checking-USBANK",
+    "amount": -100.99,
+    "type": "Expense"
+  },
+  {},
+  {
+    "transaction_id": 10,
+    "date": 1750032000000,
+    "description": "Zelle Transfer to Marie",
+    "category": "Miscellaneous",
+    "account": "Savings-USBANK",
+    "amount": -300.0,
+    "type": "Expense"
+  },
+  {
+    "transaction_id": 11,
+    "date": 1750032000000,
+    "description": "HSA-Marcus",
+    "category": "Transfer",
+    "account": "Savings-USBANK",
+    "amount": 900.0,
+    "type": "Income"
+  },
+  {
+    "transaction_id": 12,
+    "date": 1749686400000,
+    "description": "Zelle Transfer Uncle Di",
+    "category": "Miscellaneous",
+    "account": "Savings-USBANK",
+    "amount": -130.0,
+    "type": "Expense"
+  },
+  {
+    "transaction_id": 13,
+    "date": 1749686400000,
+    "description": "Credit-USBANK",
+    "category": "Transfer",
+    "account": "Savings-USBANK",
+    "amount": 334.71,
+    "type": "Expense"
+  }
+]

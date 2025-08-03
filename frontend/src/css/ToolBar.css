@@ -1,0 +1,26 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+h1 {
+  font-size: 3rem;
+}
+.header-btns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.header-btns Button {
+  background-color: #50c691;
+  border: none;
+  color: white;
+}
+
+.header-btns Button:hover {
+  transform: scale(1.1);
+  color: grey;
+  background-color: beige;
+}

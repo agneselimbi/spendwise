@@ -1,0 +1,63 @@
+[
+  {
+    "budget_id": 1,
+    "category": "Education ",
+    "budget": 50.0
+  },
+  {
+    "budget_id": 2,
+    "category": "Rent",
+    "budget": 1900.0
+  },
+  {
+    "budget_id": 3,
+    "category": "Utilities",
+    "budget": 315.0
+  },
+  {
+    "budget_id": 4,
+    "category": "Subscription Service",
+    "budget": 53.85
+  },
+  {
+    "budget_id": 5,
+    "category": "Transportation",
+    "budget": 570.0
+  },
+
+  {
+    "budget_id": 6,
+    "category": "Entertainment",
+    "budget": 100.0
+  },
+  {
+    "budget_id": 7,
+    "category": "Shopping",
+    "budget": 150.0
+  },
+  {
+    "budget_id": 8,
+    "category": "Household",
+    "budget": 100.0
+  },
+  {
+    "budget_id": 9,
+    "category": "Food",
+    "budget": 200.0
+  },
+  {
+    "budget_id": 10,
+    "category": "Restaurant + Take Outs",
+    "budget": 150.0
+  },
+  {
+    "budget_id": 11,
+    "category": "Student Loan",
+    "budget": 900.0
+  },
+  {
+    "budget_id": 12,
+    "category": "Education Fund",
+    "budget": 200.0
+  }
+]

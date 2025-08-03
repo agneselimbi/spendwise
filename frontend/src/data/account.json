@@ -1,0 +1,23 @@
+[
+  {
+    "acct_id": 1,
+    "acct_name": "Checking-USBANK",
+    "institution": "USBANK",
+    "type": "Checking",
+    "balance": 2283.1
+  },
+  {
+    "acct_id": 2,
+    "acct_name": "Savings-USBANK",
+    "institution": "USBANK",
+    "type": "Savings",
+    "balance": 501.62
+  },
+  {
+    "acct_id": 3,
+    "acct_name": "Credit-USBANK",
+    "institution": "USBANK",
+    "type": "Credit",
+    "balance": -687.69
+  }
+]
